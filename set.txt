@@ -3,4 +3,4 @@
 //});
 // api.unmap('<m>');
 
-api.iunmap(":");
+api.iunmap("m");
